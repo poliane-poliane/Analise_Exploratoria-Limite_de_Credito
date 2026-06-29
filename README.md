@@ -37,3 +37,25 @@ Para quem deseja explorar os detalhes finos desta análise, o notebook contém u
 
 ---
 *Projeto desenvolvido como parte do módulo final de Python para Análise de Dados.*
+
+
+<img width="742" height="441" alt="boxplot-qtd_transacoes-uso_percentual_credito" src="https://github.com/user-attachments/assets/8ef054f5-dc91-482e-ad9a-d646983a8cde" />
+
+
+<img width="1490" height="671" alt="boxplot-uso_percentual_credito-limite_credito-valor_transacoes" src="https://github.com/user-attachments/assets/35aa12a4-1139-4407-8545-dfc012b8ca59" />
+
+
+<img width="525" height="382" alt="relplot-limite_credito-valor_transacoes" src="https://github.com/user-attachments/assets/c4219385-90f5-4c76-9f35-d9a84269c1ff" />
+
+
+<img width="526" height="383" alt="relplot-qtde_transacoes-valor_transacoes" src="https://github.com/user-attachments/assets/7bbc538b-6a0b-4652-859e-c2f98c43ffbf" />
+
+
+<img width="891" height="295" alt="correlacao-duas_var" src="https://github.com/user-attachments/assets/04c5ece5-d357-45d6-a739-1a4023cca2d7" />
+
+
+<img width="735" height="298" alt="correlacao-uma_var" src="https://github.com/user-attachments/assets/53d1e3c3-41af-4ba0-8ca2-b9ef7685861e" />
+
+
+<img width="742" height="293" alt="correlacao-uma_varr" src="https://github.com/user-attachments/assets/0dd23604-90bb-48ce-a1e3-1c0cf90de07a" />
+
